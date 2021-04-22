@@ -1,5 +1,5 @@
 ## adding user to a github organization
-This is my own project for adding multiple suer to a github organization
+This is my own project for adding multiple users to a github organization
 
 ## Requirements
 
